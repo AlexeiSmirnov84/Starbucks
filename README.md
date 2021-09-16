@@ -1,6 +1,16 @@
 # Starbucks Project
+The purpose of this project to identify how demographic groups correlates to specific offer types. Based on this knowledge I created a ML model to predict suitable offer types.
 
-
+## Installations
+In oder to use this ode, please install python libraries:
+`pip install numpy`  
+`pip install pandas`  
+`pip install matplotlib`  
+`pip install sqlalchemy`  
+`pip install pickle`  
+`pip install sklearn`  
+`pip install plotly`
+`pip install seaborn`
 
 ## Data Dictionary
 * profile.json - Rewards program users (17000 users x 5 fields)
@@ -26,3 +36,6 @@ offer id: (string/hash) not associated with any "transaction"
 amount: (numeric) money spent in "transaction"
 reward: (numeric) money gained from "offer completed"
 time: (numeric) hours after start of test
+
+## Contact:
+LinkedIn: https://www.linkedin.com/in/alexey-smirnov-4339322b
