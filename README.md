@@ -13,7 +13,7 @@ In oder to use this ode, please install python libraries:
 `pip install plotly`
 `pip install seaborn`
 
-If you are using Udacity Conda platform, please update environment in terminal: 'conda create -n myenv python=3.6'
+If you are using Udacity Conda platform, please update environment in terminal: `conda create -n myenv python=3.6`
 
 ## Data Dictionary
 * profile.json - Rewards program users (17000 users x 5 fields)
