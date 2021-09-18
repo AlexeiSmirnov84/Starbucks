@@ -7,7 +7,6 @@ In oder to use this ode, please install python libraries:
 `pip install numpy`  
 `pip install pandas`  
 `pip install matplotlib`  
-`pip install sqlalchemy`  
 `pip install pickle`  
 `pip install sklearn`  
 `pip install plotly`
