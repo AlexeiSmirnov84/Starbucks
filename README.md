@@ -43,5 +43,7 @@ time: (numeric) hours after start of test
 ## Story
 You can read my artickle about this project on Medium.com : https://best-mahogany-dolphin-856.medium.com/starbucks-project-18d8fb8dd85
 
+[link to Google!](http://google.com)
+
 ## Contact:
 LinkedIn: https://www.linkedin.com/in/alexey-smirnov-4339322b
