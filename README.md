@@ -1,5 +1,5 @@
 # Starbucks Project
-The purpose of this project to identify how demographic groups correlates to specific offer types. Based on this knowledge I created a ML model to predict suitable offer types.
+The purpose of this project to identify how demographic groups correlates to specific offer types. Based on this knowledge, create a ML model to predict how existing offer types suits for customer needs.
 
 ## Installations
 In oder to use this ode, please install python libraries:
@@ -13,6 +13,9 @@ In oder to use this ode, please install python libraries:
 `pip install seaborn`
 
 If you are using Udacity Conda platform, please update environment in terminal: `conda create -n myenv python=3.6`
+
+## Project Motivation
+In this day and age, the customers' satisfaction score is #1 for a good business performance. It is especially interesting case for me, because I can be either a customer or a business owner. As a customer want to know how modern technologies could satisfy my needs. As business owner, I will know how to predict customers needs.
 
 ## Data Dictionary
 * profile.json - Rewards program users (17000 users x 5 fields)
