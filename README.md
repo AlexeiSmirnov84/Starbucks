@@ -15,7 +15,7 @@ In oder to use this ode, please install python libraries:
 If you are using Udacity Conda platform, please update environment in terminal: `conda create -n myenv python=3.6`
 
 ## Project Motivation
-In this day and age, the customers' satisfaction score is #1 for a good business performance. It is especially interesting case for me, because I can be either a customer or a business owner. As a customer want to know how modern technologies could satisfy my needs. As business owner, I will know how to predict customers needs.
+In this day and age, the customers' satisfaction score is #1 for a good business performance. It is especially interesting case for me, because I can be either a customer or a business owner. As a customer want to know how modern technologies could satisfy my needs. As business owner, I will know how to predict customers needs and provide them good offers..
 
 ## Data Dictionary
 * profile.json - Rewards program users (17000 users x 5 fields)
